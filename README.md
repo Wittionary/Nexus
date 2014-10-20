@@ -1,9 +1,13 @@
 Nexus
 =====
 
-Display relevant information that the user can process in a glance with minimal interaction. The project is designed to be used in conjunction with a Raspberry Pi, and should, ideally, not require a mouse or keyboard to use. An Internet connection will be required to facilitate fetching data from various sources for display.
+Display relevant information that the user can process in a glance with minimal interaction. 
+The project is designed to be used in conjunction with a Raspberry Pi, and should, ideally, 
+not require a mouse or keyboard to use. An Internet connection will be required to facilitate
+fetching data from various sources for display.
 
 ## Initial Requirements
+
 - Social media interactions
   - Twitter direct messages, retweets, and mentions.
 - Upcoming calendar events
@@ -16,3 +20,15 @@ Display relevant information that the user can process in a glance with minimal 
 - Weather
 - Dynamic/automatic updating
 
+## Development Details
+
+To get started with development, fork the repository on GitHub. Now, from your fork,
+
+```bash
+git clone https://github.com/<username>/Nexus.git
+cd Nexus
+npm install
+```
+
+You can browse through the Gruntfile to see exactly what all is avaliable. To get everything 
+started up so that you can see what's happening, you can run `grunt serve`. 
