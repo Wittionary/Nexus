@@ -1,6 +1,13 @@
 {
-  "name": "nexus",
+  "name": "Nexus",
   "version": "0.0.0",
+  "description": "The Nexus of your life.",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wittionary/Nexus"
+  },
   "dependencies": {},
   "devDependencies": {
     "coffee-script": "^1.8.0",
