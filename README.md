@@ -28,6 +28,7 @@ To get started with development, fork the repository on GitHub. Now, from your f
 git clone https://github.com/<username>/Nexus.git
 cd Nexus
 npm install
+bower install
 ```
 
 You can browse through the Gruntfile to see exactly what all is avaliable. To get everything 
