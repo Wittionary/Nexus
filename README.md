@@ -38,8 +38,3 @@ npm install -g bower
 
 You can browse through the Gruntfile to see exactly what all is avaliable. To get everything 
 started up so that you can see what's happening, you can run `grunt serve`. 
-
-If you don't yet have Grunt, you can install it with
-```bash
-npm install -g grunt-cli
-```
